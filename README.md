@@ -20,7 +20,7 @@ The entire stack (PostgreSQL, Backend, Frontend) is containerized and automatica
 
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_REPO_URL>
+   git clone https://github.com/SacrieriuRazvanMarcian/school-management-system.git
    cd school-management-system
 
 2. Create a .env file inside the ./backend directory with the following data:
